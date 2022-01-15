@@ -9,6 +9,8 @@ class practice {
         String a = scan.nextLine();
 
         System.out.println(a);
+        //commenting
+
 
 
     }
