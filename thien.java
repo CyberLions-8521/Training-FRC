@@ -1,0 +1,4 @@
+public class thien {
+    oky
+    
+}
