@@ -13,6 +13,6 @@ After you are finished UPLOAD YOUR CODE!!! (Source Control Tab) click the Checkm
 0-------------------------------------------------------------------------------------------------------------0
 Homework:
 Create your very own Branch Example: ThienBranch
-Create a folder (Name)
+
+--> Create a folder named: "Stanford"
 - Create a file with name of your (Favorite game).java => Example: BDO.java
-- Create a new Branch (FirstName,FavoriteGame) => Example: ThienBDO
