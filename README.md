@@ -7,7 +7,7 @@ Task 1: Follow The google Document Guide if you don't know what you are doing
 Homework:
 Create your very own Branch Example: ThienBranch
 
---> Create a folder named: "Stanford"
+--> Create a folder with (FirstnameLastName)
 - Create a file with name of your (Favorite game).java => Example: BDO.java
 
 
