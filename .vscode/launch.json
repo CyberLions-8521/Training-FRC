@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NameGame",
+            "request": "launch",
+            "mainClass": "NameGame",
+            "projectName": "Training-FRC_3f17817"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        }
+    ]
+}

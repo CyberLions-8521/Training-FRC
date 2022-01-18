@@ -1,5 +1,6 @@
-public class Avoidmainbranch {
-    public static void main(String [] args ) {
-        //Please do not commit your code onto Main branch This has to be avoided
+public class NameGame {
+    public static void main(String [] args) {
+        System.out.println("My Favorite Game is Michelle Obama. ");
     }
+    //get it lol
 }
