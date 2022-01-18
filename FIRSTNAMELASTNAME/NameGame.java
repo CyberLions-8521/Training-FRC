@@ -1,6 +1,6 @@
-public class NameGame {
+public class Valorant {
     public static void main(String [] args) {
-        System.out.println("My Favorite Game is... ");
+        System.out.println("My Favorite Game is Valorant.");
     }
-    //Comments etc232
+    //I suck at Valorant, peaked silver 3 ;-;
 }
